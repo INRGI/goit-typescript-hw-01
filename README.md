@@ -1,3 +1,3 @@
 
-![TypeScript Icon]([insert_link_to_ts_icon](https://vetores.org/wp-content/uploads/typescript.png)https://vetores.org/wp-content/uploads/typescript.png)
+![TypeScript Icon](https://vetores.org/d/typescript.svg)
 <h1>Start working with TypeScript</h1>
