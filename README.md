@@ -1,3 +1,3 @@
 
-![TypeScript Icon](https://vetores.org/d/typescript.svg)
+<img src="https://vetores.org/d/typescript.svg" alt="TypeScript Icon" width="100" height="100">
 <h1>Start working with TypeScript</h1>
